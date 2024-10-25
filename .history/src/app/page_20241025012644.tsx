@@ -332,7 +332,7 @@ export default function Home() {
                   <AccordionTrigger className="text-[#4A0E0E] text-xl">Misdiagnosis in certain countries</AccordionTrigger>
                   <AccordionContent>
                     <ul className="list-disc pl-5 space-y-2 text-[#4A0E0E]">
-                      <li>Many countries don&apos;t have proper access to healthcare</li>
+                      <li>Many countries don't have proper access to healthcare</li>
                       <li>Many countries are not aware of thyroid conditions</li>
                       <li>Cultural aspects influence the way that the symptoms are reported</li>
                       <li>Misinterpretation of symptoms</li>
@@ -388,7 +388,7 @@ export default function Home() {
               </Card>
               <Card className="bg-[#FFF5E6] border-[#8B0000] shadow-lg">
                 <CardHeader>
-                  <CardTitle className="text-2xl text-[#4A0E0E]">Audio: Expert Doctor&apos;s Analysis</CardTitle>
+                  <CardTitle className="text-2xl text-[#4A0E0E]">Audio: Expert Doctor's Analysis</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <div className="space-y-4">

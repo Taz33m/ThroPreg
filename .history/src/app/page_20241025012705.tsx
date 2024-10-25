@@ -388,7 +388,7 @@ export default function Home() {
               </Card>
               <Card className="bg-[#FFF5E6] border-[#8B0000] shadow-lg">
                 <CardHeader>
-                  <CardTitle className="text-2xl text-[#4A0E0E]">Audio: Expert Doctor&apos;s Analysis</CardTitle>
+                  <CardTitle className="text-2xl text-[#4A0E0E]">Audio: Expert Doctor's Analysis</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <div className="space-y-4">

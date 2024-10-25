@@ -143,7 +143,7 @@ export default function Home() {
               <h2 className="text-4xl font-semibold text-[#4A0E0E]">Understanding Thyroid Health</h2>
               <p className="text-lg text-[#4A0E0E] leading-relaxed">
                 Thyroid health is crucial, especially during pregnancy. Our thyroid gland produces hormones that regulate metabolism, 
-                energy, and growth. During pregnancy, these hormones play a vital role in the development of the fetus. At ThyroPreg, 
+                energy, and growth. During pregnancy, these hormones play a vital role in the development of the fetus. At ThroPreg, 
                 we&apos;re dedicated to providing you with comprehensive information and support throughout your journey.
               </p>
             </div>
@@ -241,7 +241,7 @@ export default function Home() {
                   </ul>
                   <p className="mt-6 text-[#4A0E0E] text-lg">
                     Proper thyroid function is crucial for the healthy development of the fetus. 
-                    If you&apos;re pregnant or planning to become pregnant, it&apos;s important to have your thyroid function checked.
+                    If you're pregnant or planning to become pregnant, it's important to have your thyroid function checked.
                   </p>
                 </CardContent>
               </Card>
@@ -332,7 +332,7 @@ export default function Home() {
                   <AccordionTrigger className="text-[#4A0E0E] text-xl">Misdiagnosis in certain countries</AccordionTrigger>
                   <AccordionContent>
                     <ul className="list-disc pl-5 space-y-2 text-[#4A0E0E]">
-                      <li>Many countries don&apos;t have proper access to healthcare</li>
+                      <li>Many countries don't have proper access to healthcare</li>
                       <li>Many countries are not aware of thyroid conditions</li>
                       <li>Cultural aspects influence the way that the symptoms are reported</li>
                       <li>Misinterpretation of symptoms</li>
@@ -388,7 +388,7 @@ export default function Home() {
               </Card>
               <Card className="bg-[#FFF5E6] border-[#8B0000] shadow-lg">
                 <CardHeader>
-                  <CardTitle className="text-2xl text-[#4A0E0E]">Audio: Expert Doctor&apos;s Analysis</CardTitle>
+                  <CardTitle className="text-2xl text-[#4A0E0E]">Audio: Expert Doctor's Analysis</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <div className="space-y-4">
@@ -457,7 +457,7 @@ export default function Home() {
 
       <footer className="bg-[#8B0000] text-white mt-16">
         <div className="container mx-auto px-4 py-8 text-center">
-          <p className="text-lg">© 2023 ThyroPreg. All rights reserved.</p>
+          <p className="text-lg">© 2023 ThroPreg. All rights reserved.</p>
           <p className="mt-2 text-sm">
             Disclaimer: This website is for informational purposes only. Always consult with a qualified healthcare provider for medical advice.
           </p>
