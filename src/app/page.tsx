@@ -144,7 +144,7 @@ export default function Home() {
               <p className="text-lg text-[#4A0E0E] leading-relaxed">
                 Thyroid health is crucial, especially during pregnancy. Our thyroid gland produces hormones that regulate metabolism, 
                 energy, and growth. During pregnancy, these hormones play a vital role in the development of the fetus. At ThroPreg, 
-                we're dedicated to providing you with comprehensive information and support throughout your journey.
+                we&apos;re dedicated to providing you with comprehensive information and support throughout your journey.
               </p>
             </div>
             <Card className="overflow-hidden bg-[#F5DEB3] border-[#8B0000] shadow-xl">
@@ -258,8 +258,8 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <ul className="list-disc pl-5 space-y-2 text-[#4A0E0E]">
-                    <li>It's a small butterfly shaped organ under the Adam's Apple in the front of the neck.</li>
-                    <li>It's responsible for producing and releasing hormones that regulate the body's metabolism. (Endocrine system)</li>
+                    <li>It&apos;s a small butterfly shaped organ under the Adam&apos;s Apple in the front of the neck.</li>
+                    <li>It&apos;s responsible for producing and releasing hormones that regulate the body&apos;s metabolism. (Endocrine system)</li>
                   </ul>
                 </CardContent>
               </Card>
