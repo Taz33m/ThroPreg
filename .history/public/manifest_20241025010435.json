@@ -1,0 +1,25 @@
+{
+  "name": "ThroPreg",
+  "short_name": "ThroPreg",
+  "icons": [
+    {
+      "src": "/thyroid-icon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/thyroid-icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/thyroid-icon-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#8B0000",
+  "background_color": "#FFF5E6",
+  "display": "standalone"
+}
+
